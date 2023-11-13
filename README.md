@@ -9,11 +9,16 @@ This course will introduce students to information systems and technology (IS/IT
 <a href="https://github.com/chuahhw/pcassemble">Pc Assemble (Lab)</a>
 
 <h2>What I Study</h2>
-<a href="https://docs.google.com/presentation/d/1b8tfR5QBw4UxM2qVANCWL1WErIAPYE4K/edit?usp=drive_link&ouid=109754918660598038404&rtpof=true&sd=true">Chapter 1: Emerging Technology in Information Communication Technology (ICT) </a>
+<a href="https://docs.google.com/presentation/d/1b8tfR5QBw4UxM2qVANCWL1WErIAPYE4K/edit?usp=drive_link&ouid=109754918660598038404&rtpof=true&sd=true">Chapter 1: Emerging Technology in Information Communication Technology</a>
+
 <a href="https://docs.google.com/presentation/d/12KimUFRF72_cMWCQSIbkui9iIUJn_itQ/edit?usp=drive_link&ouid=109754918660598038404&rtpof=true&sd=true"> Chapter 2: Hardware</a>
+
 <a href="https://docs.google.com/presentation/d/19-sXaA2babnCGz9bzl3ww-koH1IsrLmj/edit?usp=drive_link&ouid=109754918660598038404&rtpof=true&sd=true">Chapter 3: Software</a>
+
 <a href="https://docs.google.com/presentation/d/1gWg1zncKdSCCCzbY1OCRSiVys4VX8TtH/edit?usp=drive_link&ouid=109754918660598038404&rtpof=true&sd=true">Chapter 4: Information System and Systems Analysis and Design </a>
+
 <a href="https://docs.google.com/presentation/d/1WLxWf2GNI377Hlz4Ztrpdst5NrCJY_T6/edit?usp=drive_link&ouid=109754918660598038404&rtpof=true&sd=true">Chapter 5: Databases and Data Analytics</a>
+
 <a href="https://docs.google.com/presentation/d/141-KqczN6aAduQgqG0CDuDYmiAOVW-jb/edit?usp=drive_link&ouid=109754918660598038404&rtpof=true&sd=true">Chapter 6: Network Communication</a>
 
 <h2>What's Next</h2>
