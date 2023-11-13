@@ -11,6 +11,7 @@ This course will introduce students to information systems and technology (IS/IT
 <h2>What I Study</h2>
 <a href="https://docs.google.com/presentation/d/1b8tfR5QBw4UxM2qVANCWL1WErIAPYE4K/edit?usp=drive_link&ouid=109754918660598038404&rtpof=true&sd=true">Chapter 1: Emerging Technology in Information Communication Technology (ICT)</a>
 
+
 <a href="https://docs.google.com/presentation/d/12KimUFRF72_cMWCQSIbkui9iIUJn_itQ/edit?usp=drive_link&ouid=109754918660598038404&rtpof=true&sd=true"> Chapter 2: Hardware</a>
 
 <a href="https://docs.google.com/presentation/d/19-sXaA2babnCGz9bzl3ww-koH1IsrLmj/edit?usp=drive_link&ouid=109754918660598038404&rtpof=true&sd=true">Chapter 3: Software</a>
