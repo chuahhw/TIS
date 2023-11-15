@@ -5,7 +5,7 @@ This course will introduce students to information systems and technology (IS/IT
 
 <h2>Reports</h2>
 
-<img src="https://wanahsblog.files.wordpress.com/2016/11/imag0636.jpg" width="100" height="100" />
+<img src="https://wanahsblog.files.wordpress.com/2016/11/imag0636.jpg" width="200" height="100" />
 <a href="https://github.com/chuahhw/pcassemble">Pc Assemble (Lab)</a>
 
 <img />
