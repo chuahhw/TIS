@@ -8,6 +8,7 @@ This course will introduce students to information systems and technology (IS/IT
 <img src="https://wanahsblog.files.wordpress.com/2016/11/imag0636.jpg" width="200" height="200" />
 <a href="https://github.com/chuahhw/pcassemble">Pc Assemble (Lab)</a>
 
+<img />
 <a href=" ">Assignment 1 (Poster) Industrial talk 1 </a>
 
 <h2>What I Study</h2>
