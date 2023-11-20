@@ -10,9 +10,7 @@ This course will introduce students to information systems and technology (IS/IT
 <a href="https://github.com/chuahhw/pcassemble">Pc Assemble (Lab)</a>
 
 <img />
-<img src="https://github.com/chuahhw/TIS/assets/147809633/5285d1c8-acde-4af8-ab72-053952894d44">Assignment 1 (Poster) Industrial talk 1 </>
-
-<a href="https://drive.google.com/file/d/1bzLfenKHbGaVOkUVQ13MlkKX6cCqfwO3/view?usp=sharing">Credits for assignment 1 (poster)</a>
+<a href="https://github.com/chuahhw/poster">Assignment 1 (Poster) Industrial talk 1 </a>
 
 <h2>What I Study</h2>
 <a href="https://docs.google.com/presentation/d/1b8tfR5QBw4UxM2qVANCWL1WErIAPYE4K/edit?usp=drive_link&ouid=109754918660598038404&rtpof=true&sd=true">Chapter 1: Emerging Technology in Information Communication Technology</a>
