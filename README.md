@@ -9,7 +9,7 @@ This course will introduce students to information systems and technology (IS/IT
 <a href="https://github.com/chuahhw/pcassemble">Pc Assemble (Lab)</a>
 
 <img />
-<a href="https://drive.google.com/file/d/1PSHAPYfext7oeP__OtD5jIpzBgg6OfsU/view?usp=sharing">Assignment 1 (Poster) Industrial talk 1 </a>
+<img src="https://drive.google.com/file/d/1PSHAPYfext7oeP__OtD5jIpzBgg6OfsU/view?usp=sharing">Assignment 1 (Poster) Industrial talk 1 </>
 
 <a href="https://drive.google.com/file/d/1bzLfenKHbGaVOkUVQ13MlkKX6cCqfwO3/view?usp=sharing">Credits for assignment 1 (poster)</a>
 
