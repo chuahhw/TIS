@@ -5,11 +5,12 @@ This course will introduce students to information systems and technology (IS/IT
 
 <h2>Reports</h2>
 
+
 <img src="https://wanahsblog.files.wordpress.com/2016/11/imag0636.jpg" width="200" height="100" />
 <a href="https://github.com/chuahhw/pcassemble">Pc Assemble (Lab)</a>
 
 <img />
-<img src="https://drive.google.com/file/d/1PSHAPYfext7oeP__OtD5jIpzBgg6OfsU/view?usp=sharing">Assignment 1 (Poster) Industrial talk 1 </>
+<img src="https://github.com/chuahhw/TIS/assets/147809633/5285d1c8-acde-4af8-ab72-053952894d44">Assignment 1 (Poster) Industrial talk 1 </>
 
 <a href="https://drive.google.com/file/d/1bzLfenKHbGaVOkUVQ13MlkKX6cCqfwO3/view?usp=sharing">Credits for assignment 1 (poster)</a>
 
