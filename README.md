@@ -14,7 +14,7 @@ This course will introduce students to information systems and technology (IS/IT
 </p>
 
 <p>
-   <p><a href="https://github.com/chuahhw/design thinking">Design Thinking Report</a></p>
+   <p><a href="https://github.com/chuahhw/designthinking">Design Thinking Report</a></p>
 </p>
 
 <h2>What's Next</h2>
