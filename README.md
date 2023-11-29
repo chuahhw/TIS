@@ -6,13 +6,15 @@ This course will introduce students to information systems and technology (IS/IT
 <h2>Reports</h2>
 
 <p>
-  <p><img src="https://wanahsblog.files.wordpress.com/2016/11/imag0636.jpg" width="200" height="100" /></p>
    <p><a href="https://github.com/chuahhw/pcassemble">Pc Assemble (Lab)</a></p>
 </p>
 
 <p>
-  <p><img src="https://github.com/chuahhw/TIS/assets/147809633/ef320361-e296-4b47-bd4e-81151c715c1b" width="200" height="250" /></p>
   <p><a href="https://github.com/chuahhw/poster">Assignment 1 (Poster) Industrial talk 1 </a></p>
+</p>
+
+<p>
+   <p><a href="https://github.com/chuahhw/design thinking">Design Thinking Report</a></p>
 </p>
 
 <h2>What I Study</h2>
