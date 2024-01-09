@@ -26,7 +26,7 @@ This course will introduce students to information systems and technology (IS/IT
 </p>
 
 <p>
-   <p><a href="https://github.com/chuahhw/assignment2">Design Thinking Presentation</a></p>
+   <p><a href="https://github.com/chuahhw/assignment2">Assignment 2 (Report) Industrial Talk 2</a></p>
 </p>
 
 <h2>What's Next</h2>
