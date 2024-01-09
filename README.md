@@ -25,5 +25,9 @@ This course will introduce students to information systems and technology (IS/IT
    <p><a href="https://github.com/chuahhw/presentation">Design Thinking Presentation</a></p>
 </p>
 
+<p>
+   <p><a href="https://github.com/chuahhw/assignment2">Design Thinking Presentation</a></p>
+</p>
+
 <h2>What's Next</h2>
 <a href="https://github.com/chuahhw">Home</a>
