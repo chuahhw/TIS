@@ -31,4 +31,4 @@ This course will introduce students to information systems and technology (IS/IT
 </p>
 
 <h2>What's Next</h2>
-<a href="https://github.com/chuahhw">Home</a>
+<a href="https://github.com/chuahhw">My profile</a>
