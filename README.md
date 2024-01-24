@@ -18,7 +18,7 @@ This course will introduce students to information systems and technology (IS/IT
 </p>
 
 <p>
-   <p><a href="https://github.com/chuahhw/UTMDigital">UTMDigital Industrial visit and industrial talk video</a></p>
+   <p><a href="https://github.com/chuahhw/UTMDigital">Assignment 2 UTMDigital Industrial visit and industrial talk video</a></p>
 </p>
 
 <p>
@@ -27,8 +27,12 @@ This course will introduce students to information systems and technology (IS/IT
 
 <p>
 
-   <p><a href="https://github.com/chuahhw/TIS/files/13897403/Modern.Annual.Report.1.pdf">Assignment 2 (Report) Industrial Talk 2</a></p>
+   <p><a href="https://github.com/chuahhw/TIS/files/13897403/Modern.Annual.Report.1.pdf">Assignment 3 (Report) Industrial Talk 2</a></p>
+</p>
+
+<p>
+   <p><a href="https://github.com/chuahhw/TIS/files/13897403/Modern.Annual.Report.1.pdf">Assignment 4 (Newsletter) </a></p>
 </p>
 
 <h2>What's Next</h2>
-<a href="https://github.com/chuahhw">My profile</a>
+<a href="https://github.com/chuahhw">Back to My profile</a>
