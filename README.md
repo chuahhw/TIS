@@ -31,8 +31,9 @@ This course will introduce students to information systems and technology (IS/IT
 </p>
 
 <p>
-   <p><a href="https://github.com/chuahhw/TIS/files/13897403/Modern.Annual.Report.1.pdf">Assignment 4 (Newsletter) </a></p>
+   <p><a href="https://github.com/chuahhw/TIS/files/14034791/Section.5.Group.4.Assignment.4.pdf">Assignment 4 (Newsletter) Industrial Talk 3</a></p>
 </p>
+
 
 <h2>What's Next</h2>
 <a href="https://github.com/chuahhw">Back to My profile</a>
