@@ -14,7 +14,11 @@ This course will introduce students to information systems and technology (IS/IT
 </p>
 
 <p>
-   <p><a href="https://github.com/chuahhw/designthinking">Design Thinking Report</a></p>
+   <p><a href="https://github.com/chuahhw/TIS/files/14034809/Section.5.Group.4.5.pdf">Design Thinking Report</a></p>
+</p>
+
+<p>
+   <p><a href="https://github.com/chuahhw/designthinking">Design Thinking Video</a></p>
 </p>
 
 <p>
@@ -26,7 +30,6 @@ This course will introduce students to information systems and technology (IS/IT
 </p>
 
 <p>
-
    <p><a href="https://github.com/chuahhw/TIS/files/13897403/Modern.Annual.Report.1.pdf">Assignment 3 (Report) Industrial Talk 2</a></p>
 </p>
 
