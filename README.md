@@ -15,7 +15,7 @@ This course will introduce students to information systems and technology (IS/IT
     <p><a href="https://github.com/chuahhw/assignment3">Assignment 3 (Format: Report) Industrial Talk 2</a></p>
 </p>
 <p>
-   <p><a href="https://github.com/chuahhw/TIS/files/14034791/Section.5.Group.4.Assignment.4.pdf">Assignment 4 (Format: Newsletter) Industrial Talk 3</a></p>
+   <p><a href="https://github.com/chuahhw/assignment4">Assignment 4 (Format: Newsletter) Industrial Talk 3</a></p>
 </p>
 - PC Assemble 
 <p>
