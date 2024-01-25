@@ -3,38 +3,31 @@
 
 This course will introduce students to information systems and technology (IS/IT) and its uses at home and work. Various aspects of IS/IT encompassing hardware, software, network and communications will be introduced. Students will be equipped with basic skills in handling PC installation and productivity tools via practical work in the labs, which shall comprise a major part of the study. This class also conducts industry visits and talks as a part of work-based learning. Both industry visits and talks will expose students to a real working environment, get knowledge from the industry and increase engagement between university and industry. 
 
-<h2>Assignments and Reports</h2>
-
+<h2>Assignments</h2>
+- Industry Talk and Industry Visit:
+<p>
+  <p><a href="https://github.com/chuahhw/poster">Assignment 1 (Format: Poster) Industrial talk 1 </a></p>
+</p>
+<p>
+   <p><a href="https://github.com/chuahhw/UTMDigital">Assignment 2 (Format: Video) Industry Visit to UTM Digital</a></p>
+</p>
+<p>
+   <p><a href="https://github.com/chuahhw/TIS/files/13897403/Modern.Annual.Report.1.pdf">Assignment 3 (Format: Report) Industrial Talk 2</a></p>
+</p>
+<p>
+   <p><a href="https://github.com/chuahhw/TIS/files/14034791/Section.5.Group.4.Assignment.4.pdf">Assignment 4 (Format: Newsletter) Industrial Talk 3</a></p>
+</p>
+- PC Assemble 
 <p>
    <p><a href="https://github.com/chuahhw/pcassemble">Pc Assemble (Lab)</a></p>
 </p>
-
+- Design Thinking
 <p>
-  <p><a href="https://github.com/chuahhw/poster">Assignment 1 (Poster) Industrial talk 1 </a></p>
-</p>
-
-<p>
-   <p><a href="https://github.com/chuahhw/TIS/files/14034809/Section.5.Group.4.5.pdf">Design Thinking Report</a></p>
-</p>
-
-<p>
-   <p><a href="https://github.com/chuahhw/designthinking">Design Thinking Video</a></p>
-</p>
-
-<p>
-   <p><a href="https://github.com/chuahhw/UTMDigital">Assignment 2 UTMDigital Industrial visit and industrial talk video</a></p>
+   <p><a href="https://github.com/chuahhw/designthinking">Design Thinking</a></p>
 </p>
 
 <p>
    <p><a href="https://github.com/chuahhw/presentation">Design Thinking Presentation</a></p>
-</p>
-
-<p>
-   <p><a href="https://github.com/chuahhw/TIS/files/13897403/Modern.Annual.Report.1.pdf">Assignment 3 (Report) Industrial Talk 2</a></p>
-</p>
-
-<p>
-   <p><a href="https://github.com/chuahhw/TIS/files/14034791/Section.5.Group.4.Assignment.4.pdf">Assignment 4 (Newsletter) Industrial Talk 3</a></p>
 </p>
 
 
